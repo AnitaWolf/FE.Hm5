@@ -1,9 +1,11 @@
-/*let num =[]                        //________1
+
+let a =+prompt("enter number")
+let num =[]                        //________1
 function calc (num) {
-    for (let i = 0; i <= 10; i++) {
+    for (let i = 0; i <= a; i++) {
      num. push (i)  
     } return num
-} console.log (calc(num))*/
+} console.log (calc(num))
 
 
 /*function calc (a,b) {                  //________2
